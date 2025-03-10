@@ -41,9 +41,12 @@ li a:hover {
   background-color: #222222;
 }
 
-body {
-	background-color: #cccccc;
-	font-family: sans-serif;
+ body {
+            font-family: 'Pacifico', cursive;
+            color: white;
+            background-color: #9e77ba;
+            margin: 0;
+            padding: 0;
 }
 
 h1 {
