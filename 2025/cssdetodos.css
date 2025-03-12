@@ -44,13 +44,13 @@ li a:hover {
  body {
             font-family: 'Pacifico', cursive;
             color: white;
-            background-color: #9e77ba;
+            background-color: #282828;
             margin: 0;
             padding: 0;
 }
         h1 {
             font-family: 'Pacifico', cursive;
-            background-color: #bdecb6;
+            background-color: #fa1414;
             padding: 10px;
             text-align: center;
             color: none;
@@ -83,7 +83,7 @@ figcaption{
 {
    .main-content {
             padding: 20px;
-            background-color: #bdecb6;
+            background-color: #fff34a;
             margin: 20px;
             border-radius: 10px;
         }
