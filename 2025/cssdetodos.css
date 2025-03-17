@@ -25,7 +25,7 @@ justify-content: center;
 li {
   float: left;
 border-right: 1px solid #bbbbbb;
-background-color: #ffcbdb
+background-color: #222222
 
 }
 
@@ -53,7 +53,7 @@ li a:hover {
             background-color: #fa1414;
             padding: 10px;
             text-align: center;
-            color: none;
+            color: #f0e9f7;
 }
 
 h2 {
