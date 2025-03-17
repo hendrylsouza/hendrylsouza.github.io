@@ -65,11 +65,11 @@ h4 {
 }
    p {
             font-family: 'cardo';
-            color: #6E12CB;
+            color: #f0e9f7;
             font-size: 1.2em;
             line-height: 1.5;
             padding: 10px;
-            background-color: #FDFD96;
+            background-color: #000000;
             margin: 15px;
             border-radius: 10px;
 }
@@ -83,7 +83,7 @@ figcaption{
 {
    .main-content {
             padding: 20px;
-            background-color: #fff34a;
+            background-color: #000000;
             margin: 20px;
             border-radius: 10px;
         }
